@@ -99,7 +99,7 @@ body.carte .reseau a {
 }
 
       body.carte .reseau a img {
-        width: 150px;
+        width: 130px;
      
  }
      
