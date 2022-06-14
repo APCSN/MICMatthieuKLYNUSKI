@@ -86,9 +86,9 @@
 
 body.carte .reseau {
         margin-left: auto;
-     	  margin-right: auto;
+     	margin-right: auto;
         text-align: center;
-  
+  	padding-top: 5%;
     }
     
 body.carte .reseau a {
